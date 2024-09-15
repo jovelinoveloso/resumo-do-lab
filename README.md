@@ -9,4 +9,13 @@
 * O **Versionamento de Código em Git e GitHub**, aprendi a instalar o git, no meu caso uso Windows 11 e junto com ele uso WSL2, com Ubuntu 22.04.3 e instalei o git, fiz uma chave SSH no GitHub. Aprendi alguns comando como Git init, git status, git add, git commit entre outros.
 * No **Desafios de Projetos: Crie Um Portifólio Vencedor**, aprendi como fazer um portifólio para nos ajudar no meu crescimento profissional e juntamente com o outro tópico como **Constribuição em um Projeto Open Source no Github** fiz um portifólio com um pouco de HTML, Markdown, site como emojipedia, dev.to entre outros.
 * A **Introdução Prática ao Azure AI e Azure OpenAI Models**, no qual a live vai estar disponível no dia **24/09/2024** com apresentação de **Rogério Rodrigues**.
-
+* A **Segunda** parte de Resumo aprendi alguns fatore como
+  **Benefícios da Computação em Nuvem:**
+*  1 - **alta disponibilidade** (SLA -quanto mais 9 menos tempo disponível e quando menos 9 mais tempo disponível);
+*  2 - **Escalabilidade** que ajusta a capacidade para demanda;
+*  3 - **Elasticidade** que dimenciona ambiente de acordo com a demanda;
+*  4 - **Confiabilidade** que tem design descentralizado, várias regiões pelo mundo, recupera de falhas e continua funcionando;
+*  5 - **Previsibilidade** que é a confiança, desempenho ou custo;
+*  6 - **Segurança** no qual a implementação é para ambos os lados (Microsoft - Oferece o serviço | Cliente - que aplica o serviço.);
+*  7 - **Governança** que faz a gestão, auditoria, mitigação (resolução) e as regras do serviço;
+*  8 - **Gerenciabilidade** que cria recursos, se a escala vai ser automática e a criação pode ser por meio de portal, linha de comando, APIs ou Powershell.
