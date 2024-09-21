@@ -28,3 +28,11 @@
 *  SaaS: Físico, Compartilhado (Infra), aplicativo, rede e S.O. por conta do Provedor da nuvem;
 *  PaaS: Físico, S.O., Compartilhado (Infra, Aplicativo, Rede) por conta do Provedor da nuvem;
 *  IaaS: Físico por conta do Provedor da nuvem.
+
+*  A **Quarta** parte aprendi sobre o conceito de arquitetura do Azure e são divididos em:
+*  **Regiões** com abrangência global, sendo que se eu estiver um empresa do Brasil e outra no Estados Unidos, posso montar uma aplicação ou sistema em cada país separados. E existe os *pares das regiões* que quando uma região fica inativa a outra par ativa os recursos para não ficar indisponível para o cliente e nem todos os recursos são disponíveis, depende de cada região. As **regiões soberanas** são aquelas que só determinados orgãos podem acessar, é o caso dos *Serviços Governamentais dos EUA* e *Azure China* (operados pela 21vianet);
+*  **Recursos Azure*  que são *Máquinas Virtuais, contas de Armazenamento, Redes Virtuais, Serviços de Aplicativos, Banco de Dados SQL e funções*.
+*  **Contas Azure** que podem conter *contas de assinaturas de desenvolvimento, de teste ou de produção*. Obs.: Uma conta pode ter diversas assinaturas **mas** um assinatura está associada somente a uma conta.
+*  Ainda na **Quarta** parte aprendi sobre arquitetura e serviços do Azure, que compreende em:
+*  Computação Azure que são compostos de: *Virtual/Virtuais, Aplicativos/Serviços* (Balanceamento de carga e escala, fica na parte de plataforma e usa as linguagens como .Net, .Net Core, Node.JS, Java, Python ou PHP), *Contêiner/Instâncias* (Ambiente leve e virtualizado e fica na parte de plataforma, como exemplo o Docker), *Serviços de Kubernetes do Azure (AKS)* (Orquestração de circulo de vida do contêiner), *Área de Trabalho virtual do Azure* (Desktop virtual), *Azure Functions* (Executa uma ativiade baseada em eventos e fica na parte de plataforma) e *Rede Virtual (VNET)* (Comunicação de recursos, com internet e com redes locais).
+  
