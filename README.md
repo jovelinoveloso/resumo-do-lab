@@ -35,4 +35,20 @@
 *  **Contas Azure** que podem conter *contas de assinaturas de desenvolvimento, de teste ou de produção*. Obs.: Uma conta pode ter diversas assinaturas **mas** um assinatura está associada somente a uma conta.
 *  Ainda na **Quarta** parte aprendi sobre arquitetura e serviços do Azure, que compreende em:
 *  Computação Azure que são compostos de: *Virtual/Virtuais, Aplicativos/Serviços* (Balanceamento de carga e escala, fica na parte de plataforma e usa as linguagens como .Net, .Net Core, Node.JS, Java, Python ou PHP), *Contêiner/Instâncias* (Ambiente leve e virtualizado e fica na parte de plataforma, como exemplo o Docker), *Serviços de Kubernetes do Azure (AKS)* (Orquestração de circulo de vida do contêiner), *Área de Trabalho virtual do Azure* (Desktop virtual), *Azure Functions* (Executa uma ativiade baseada em eventos e fica na parte de plataforma) e *Rede Virtual (VNET)* (Comunicação de recursos, com internet e com redes locais).
+
+*  A **Quinta** parte do laboratório aprendi as tipos de armazenamento do Azure no qual o nome da conta de armazenamento deve ser *exclusivo*, contendo de *3 a 24 caracteres*, *não aceita caracteres especiais* e *nem letras maiúsculas*, que são:
+*  **Redundância de dados**:
+*  LRS - > Individual na região primária -> 11 noves;
+*  ZRS - > Três zonas na região primária -> 12 noves;
+*  GRS - > Datacenter único na região primária e região secundária -> 16 noves;
+*  GZRS - > Três zonas na região primária e único datacenter na região secundária -> 16 noves.
+*  Blog do Azure: Armazenamento massiva de dados *não* estruturados.
+*  *Endereçamento*:
+*  Blog -> https://<storage-account>.blob.core.windows.net
+*  Data Lake Storage -> https://<storage-account>.dfs.core.windows.net
+*  Arquivos Azure -> https://<storage-account>.file.core.windows.net
+*  Armazenamento de filas -> https://<storage-account>.queue.core.windows.net
+*  Armazenamento de tabelas -> https://<storage-account>.table.core.windows.net
+*  O *Azure Data Box* suporta até 80 terabyte.
+*  O *AzCopy* é um utilitário de linha de comando, copia blobs ou aquivos de armazenamentos ou arquivos para sua conta de armazenamento.
   
