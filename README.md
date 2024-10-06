@@ -51,4 +51,9 @@
 *  Armazenamento de tabelas -> https://<storage-account>.table.core.windows.net
 *  O *Azure Data Box* suporta até 80 terabyte.
 *  O *AzCopy* é um utilitário de linha de comando, copia blobs ou aquivos de armazenamentos ou arquivos para sua conta de armazenamento.
+*  A **Sexta** parte do laboratório aprendi sobre:
+*  Diretório Azure, que inclui o Microsoft Entra ID (antigo Azure Active Diretory) e o Microsoft Entra Domain Services;
+*  Métodos de Autenticação no Azure, incluso SSO (Autenticação uma vez, que vc faz a autenticação uma vez de sua aplicação ou máquina, MFA (Autenticação de dois fatores ou autenticação de algum característica física ou fato de sua vida);
+*  Identidades externas no qual você tem um parceiro fora de sua empresa que precisa acessar algum recurso ou aquivo no Azure e o acesso de convidado Azure que é um acesso temporário no qual esse usuário tem acesso algum tipo de arquivo ou recurso e é muito usado para uma auditoria por exemplo ou pessoa temporária.
+  
   
