@@ -66,5 +66,9 @@
 *   Os bloqueios de recursos que protege os recursos do Auzre de exclusão ou modificação acidental (bloqueio tipo Excluir -> que só não pode excluir e o ReadOnly -> que não pode nem excluir e nem mover);
 *   O Portal de Confiança do Serviço e um portal que contêm toda documentação dos recursos e serviços feitos pela Microsoft;
 *   E o Microsoft Purview no qual é uma familia de soluções de governança, risco e conformidade de dados que ajuda a obter uma única exibição unificada em seus dados.
+*   A **nona** parte do laboratório aprendi sobre:
+*   Qual as funcionalidades do Azure ARC no qual temos as ferramentas de genciamento local, ferramentas e experiências como Azure Portal, Power Shell e Azure CLI. Ele contêm um painel único de gerenciamento, práticas nativas de nuvem, controle de acesso baseado em função e segurança e conformidade;
+*   O que o Azure Resource Manager (ARM) proporciona uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura Azure. Os modelos do ARM são arquivos JSON (JavaScript Object Notation) que podem ser usados para criar e implantar a infraestrutura do Azure.
+*   
   
   
