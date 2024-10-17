@@ -55,5 +55,11 @@
 *  Diretório Azure, que inclui o Microsoft Entra ID (antigo Azure Active Diretory) e o Microsoft Entra Domain Services;
 *  Métodos de Autenticação no Azure, incluso SSO (Autenticação uma vez, que vc faz a autenticação uma vez de sua aplicação ou máquina, MFA (Autenticação de dois fatores ou autenticação de algum característica física ou fato de sua vida);
 *  Identidades externas no qual você tem um parceiro fora de sua empresa que precisa acessar algum recurso ou aquivo no Azure e o acesso de convidado Azure que é um acesso temporário no qual esse usuário tem acesso algum tipo de arquivo ou recurso e é muito usado para uma auditoria por exemplo ou pessoa temporária.
+*  A **sétima** parte do laboratório aprendi sobre:
+*  *Custo no Azure*, que faz um comparativo de preço de todas as funções que o Azure pode proporcionar;
+*  Nessa *calculadora* pode-se fazer uma previsão do custo mensal ou anual dos produtos *Azure*;
+*  Foi falado também do *Azure Marketplace*, que é uma plataforma de software livre que contêm vários softwares e inclusive pode instalar nele algum recurso que temos na nossa empresa;
+*  Existe também no Azure o *Gerenciamento de custos do Azure* que é um relatório de cobrança e dados no qual já foi gasto e utilizado na cloud Azure;
+*  E por último temos as *marcas (tags)* que fornece metadados aos recursos do Azure, organiza os recursos em um taxonomia de maneira lógica.
   
   
