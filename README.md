@@ -62,13 +62,16 @@
 *  Existe também no Azure o *Gerenciamento de custos do Azure* que é um relatório de cobrança e dados no qual já foi gasto e utilizado na cloud Azure;
 *  E por último temos as *marcas (tags)* que fornece metadados aos recursos do Azure, organiza os recursos em um taxonomia de maneira lógica.
 *   A **oitava** parte do laboratório aprendi sobre:
-*   Como é feita as políticas de grupo com Azure Policy que ajuda a impor padrões organizacionais e a avaliar a conformidade em escala;
-*   Os bloqueios de recursos que protege os recursos do Auzre de exclusão ou modificação acidental (bloqueio tipo Excluir -> que só não pode excluir e o ReadOnly -> que não pode nem excluir e nem mover);
-*   O Portal de Confiança do Serviço e um portal que contêm toda documentação dos recursos e serviços feitos pela Microsoft;
-*   E o Microsoft Purview no qual é uma familia de soluções de governança, risco e conformidade de dados que ajuda a obter uma única exibição unificada em seus dados.
+*   Como é feita as *políticas de grupo com Azure Policy* que ajuda a impor padrões organizacionais e a avaliar a conformidade em escala;
+*   Os bloqueios de recursos que protege os recursos do Azure de exclusão ou modificação acidental (bloqueio tipo *Excluir -> que só não pode excluir e o ReadOnly -> que não pode nem excluir e nem mover*);
+*   O *Portal de Confiança do Serviço* e um portal que contêm toda documentação dos recursos e serviços feitos pela Microsoft;
+*   E o *Microsoft Purview* no qual é uma familia de soluções de governança, risco e conformidade de dados que ajuda a obter uma única exibição unificada em seus dados.
 *   A **nona** parte do laboratório aprendi sobre:
-*   Qual as funcionalidades do Azure ARC no qual temos as ferramentas de genciamento local, ferramentas e experiências como Azure Portal, Power Shell e Azure CLI. Ele contêm um painel único de gerenciamento, práticas nativas de nuvem, controle de acesso baseado em função e segurança e conformidade;
-*   O que o Azure Resource Manager (ARM) proporciona uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura Azure. Os modelos do ARM são arquivos JSON (JavaScript Object Notation) que podem ser usados para criar e implantar a infraestrutura do Azure.
-*   
+*   Qual as funcionalidades do *Azure ARC* no qual temos as ferramentas de genciamento local, ferramentas e experiências como *Azure Portal, Power Shell e Azure CLI*. Ele contêm um painel único de gerenciamento, práticas nativas de nuvem, controle de acesso baseado em função e segurança e conformidade;
+*   O que o *Azure Resource Manager (ARM)* proporciona uma camada de gerenciamento que permite criar, atualizar e excluir recursos na assinatura Azure. Os modelos do ARM são arquivos *JSON (JavaScript Object Notation)* que podem ser usados para criar e implantar a infraestrutura do Azure.
+* **nona**  e última parte do laboratório aprendi sobre:
+* O *Assistente do Azure* no qual analisa recursos implantados do Azure e faz recomendações com base nas práticas recomendadas para otimizar as implantações do Azure. Assistente Azure consiste na *confiabilidade, segurança, desempenho, custo e excelência operacional*;
+* A *Integridade do Serviço do Azure* é uma coleção de serviços que mantêm o usuário informado sobre o status geral do Azure, status de serviços que podem afetar o usuário e o status de recurso específico que está afetando o usuário;
+* E uma descrição sobre o *Azure Monitor* maximiza a disponibilidade e o desempenho de aplicativos e serviços coletando, analizando e tomando decisões com base na telemetria da nuvem e de ambientes locais, incluindo *Azure Log, Analytics, Alertas do Azure Monitor e Application Insights*.
   
   
