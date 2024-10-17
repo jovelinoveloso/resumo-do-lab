@@ -61,5 +61,10 @@
 *  Foi falado também do *Azure Marketplace*, que é uma plataforma de software livre que contêm vários softwares e inclusive pode instalar nele algum recurso que temos na nossa empresa;
 *  Existe também no Azure o *Gerenciamento de custos do Azure* que é um relatório de cobrança e dados no qual já foi gasto e utilizado na cloud Azure;
 *  E por último temos as *marcas (tags)* que fornece metadados aos recursos do Azure, organiza os recursos em um taxonomia de maneira lógica.
+*   A **oitava** parte do laboratório aprendi sobre:
+*   Como é feita as políticas de grupo com Azure Policy que ajuda a impor padrões organizacionais e a avaliar a conformidade em escala;
+*   Os bloqueios de recursos que protege os recursos do Auzre de exclusão ou modificação acidental (bloqueio tipo Excluir -> que só não pode excluir e o ReadOnly -> que não pode nem excluir e nem mover);
+*   O Portal de Confiança do Serviço e um portal que contêm toda documentação dos recursos e serviços feitos pela Microsoft;
+*   E o Microsoft Purview no qual é uma familia de soluções de governança, risco e conformidade de dados que ajuda a obter uma única exibição unificada em seus dados.
   
   
